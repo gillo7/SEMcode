@@ -1,4 +1,4 @@
-FROM ubuntu:latest
-LABEL authors="olinux"
-
-ENTRYPOINT ["top", "-b"]
+FROM amazoncorretto:17
+COPY ./target/classes/com /tmp/com
+WORKDIR /tmp
+ENTRYPOINT ["java", "com.napier.sem.Main"]
