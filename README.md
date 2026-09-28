@@ -6,3 +6,5 @@
 Test
 
 [![A workflow for my Hello World App](https://github.com/gillo7/SEMcode/actions/workflows/main.yml/badge.svg)](https://github.com/gillo7/SEMcode/actions/workflows/main.yml)
+
+[![A workflow for my Hello World App](https://github.com/gillo7/SEMcode/actions/workflows/main.yml/badge.svg?branch=develop&event=workflow_run)](https://github.com/gillo7/SEMcode/actions/workflows/main.yml)
