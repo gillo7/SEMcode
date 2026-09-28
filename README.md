@@ -4,3 +4,5 @@
 ![workflow](https://github.com/gillo7/SEMcode/actions/workflows/main.yml/badge.svg)
 
 Test
+
+[![A workflow for my Hello World App](https://github.com/gillo7/SEMcode/actions/workflows/main.yml/badge.svg)](https://github.com/gillo7/SEMcode/actions/workflows/main.yml)
